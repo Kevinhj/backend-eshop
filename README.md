@@ -1,2 +1,2 @@
+<<<<<<< HEAD
 # backend-eshop
-.env
